@@ -1,0 +1,9 @@
+save/*
+!save/.gitkeep
+
+*.bak
+*.tmp
+*.log
+
+Thumbs.db
+.DS_Store
